@@ -38,7 +38,7 @@ owner:
 author:
     name: Rakshith Shetty
 
-paper_url: "https://arxiv.org/abs/1912.07538" 
+paper_url: "http://openaccess.thecvf.com/content_CVPR_2020/papers/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.pdf" 
 datasetlink: "https://rakshithshetty.github.io/CausalVQA/#dataset"
 #plugins:
 #    - jekyll-include-cache
